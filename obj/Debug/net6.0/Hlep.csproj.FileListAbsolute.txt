@@ -13,3 +13,18 @@ C:\Users\Administrator\Documents\VS Projects\c#\Hlep\obj\Debug\net6.0\refint\Hle
 C:\Users\Administrator\Documents\VS Projects\c#\Hlep\obj\Debug\net6.0\Hlep.pdb
 C:\Users\Administrator\Documents\VS Projects\c#\Hlep\obj\Debug\net6.0\Hlep.genruntimeconfig.cache
 C:\Users\Administrator\Documents\VS Projects\c#\Hlep\obj\Debug\net6.0\ref\Hlep.dll
+C:\Users\Administrator\Source\Repos\Simple-Console-Print2\bin\Debug\net6.0\Hlep.exe
+C:\Users\Administrator\Source\Repos\Simple-Console-Print2\bin\Debug\net6.0\Hlep.deps.json
+C:\Users\Administrator\Source\Repos\Simple-Console-Print2\bin\Debug\net6.0\Hlep.runtimeconfig.json
+C:\Users\Administrator\Source\Repos\Simple-Console-Print2\bin\Debug\net6.0\Hlep.dll
+C:\Users\Administrator\Source\Repos\Simple-Console-Print2\bin\Debug\net6.0\Hlep.pdb
+C:\Users\Administrator\Source\Repos\Simple-Console-Print2\obj\Debug\net6.0\Hlep.csproj.AssemblyReference.cache
+C:\Users\Administrator\Source\Repos\Simple-Console-Print2\obj\Debug\net6.0\Hlep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Source\Repos\Simple-Console-Print2\obj\Debug\net6.0\Hlep.AssemblyInfoInputs.cache
+C:\Users\Administrator\Source\Repos\Simple-Console-Print2\obj\Debug\net6.0\Hlep.AssemblyInfo.cs
+C:\Users\Administrator\Source\Repos\Simple-Console-Print2\obj\Debug\net6.0\Hlep.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Source\Repos\Simple-Console-Print2\obj\Debug\net6.0\Hlep.dll
+C:\Users\Administrator\Source\Repos\Simple-Console-Print2\obj\Debug\net6.0\refint\Hlep.dll
+C:\Users\Administrator\Source\Repos\Simple-Console-Print2\obj\Debug\net6.0\Hlep.pdb
+C:\Users\Administrator\Source\Repos\Simple-Console-Print2\obj\Debug\net6.0\Hlep.genruntimeconfig.cache
+C:\Users\Administrator\Source\Repos\Simple-Console-Print2\obj\Debug\net6.0\ref\Hlep.dll
