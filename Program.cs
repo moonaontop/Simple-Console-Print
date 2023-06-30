@@ -1,2 +1,2 @@
 Console.WriteLine("Hello, World! FR");
-Console.WriteLine("No ei sti :)");
+Console.WriteLine("No easd sti :)");
